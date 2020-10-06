@@ -1,6 +1,5 @@
-this is the code of homework 2:
+this is the java code of homework 2:
 
-```
 Write a Java code that :
 
 - Has 5 variables (grade1~grade5) as 5 grades of a student
@@ -11,4 +10,3 @@ Write a Java code that :
  - If it is between 80 to 89.99, it prints: “B: Good!”
  - If it is between 70 to 79.99, it prints “C: Please try more next time!”
  - If it is 69.99 or less, it prints “F: Unfortunately you failed!”
-```
